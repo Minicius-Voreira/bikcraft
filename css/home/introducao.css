@@ -45,4 +45,8 @@
   .introducao h1 {
     margin-bottom: 16px;
   }
+  .introducao img {
+    height: 300px;
+    width: 100%;
+  }
 }
